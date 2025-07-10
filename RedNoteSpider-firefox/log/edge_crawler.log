@@ -1,0 +1,10 @@
+2025-07-05 11:59:41.154 | INFO     | __main__:<module>:45 - Edge爬虫启动 - 当前已有笔记总数: 0, 下一个编号: 5000
+2025-07-05 11:59:41.155 | INFO     | __main__:<module>:46 - Edge爬虫配置: 从5000开始倒数，只爬取图片笔记，不爬取视频
+2025-07-05 12:02:26.056 | INFO     | __main__:<module>:45 - Edge爬虫启动 - 当前已有笔记总数: 0, 下一个编号: 5000
+2025-07-05 12:02:26.056 | INFO     | __main__:<module>:46 - Edge爬虫配置: 从5000开始倒数，只爬取图片笔记，不爬取视频
+2025-07-05 12:04:21.417 | INFO     | __main__:<module>:45 - Edge爬虫启动 - 当前已有笔记总数: 0, 下一个编号: 5000
+2025-07-05 12:04:21.418 | INFO     | __main__:<module>:46 - Edge爬虫配置: 从5000开始倒数，只爬取图片笔记，不爬取视频
+2025-07-05 12:04:21.419 | INFO     | client:_init_edge_browser:174 - 找到Edge浏览器: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2025-07-05 12:08:42.909 | INFO     | __main__:<module>:45 - Edge爬虫启动 - 当前已有笔记总数: 0, 下一个编号: 5000
+2025-07-05 12:08:42.910 | INFO     | __main__:<module>:46 - Edge爬虫配置: 从5000开始倒数，只爬取图片笔记，不爬取视频
+2025-07-05 12:08:42.911 | INFO     | client:_init_firefox_browser:173 - 找到Firefox浏览器: C:\Program Files\Mozilla Firefox\firefox.exe

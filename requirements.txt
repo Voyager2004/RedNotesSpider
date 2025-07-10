@@ -1,0 +1,4 @@
+requests>=2.31.0
+loguru>=0.7.0
+DrissionPage>=4.0.0
+selenium>=4.15.0
