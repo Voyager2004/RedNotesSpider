@@ -52,7 +52,7 @@ xhs_spider/
 
 1. **克隆项目**
    ```bash
-   git clone <项目地址>
+   git clone https://github.com/Voyager2004/RedNotesSpider.git
    cd xhs_spider
    ```
 
@@ -175,5 +175,6 @@ A: 可以调整延时参数，但要注意反爬虫风险
 - Firefox爬虫：`RedNoteSpider-firefox/log/Firefox_crawler.log`
 
 ---
+
 
 **免责声明**：本项目仅供学习和研究使用，请遵守相关法律法规和网站使用条款。
